@@ -4,3 +4,4 @@ A powerful and easy to use antivirus for windows
 
 Bir sorun olursa issues sayfsından sorununuzu belirtin / if you encounter an issue notify me on the issues page
 
+Made by Alisadi Çağlıyan
